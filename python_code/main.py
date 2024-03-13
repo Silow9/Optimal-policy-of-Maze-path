@@ -1,5 +1,4 @@
 """
-EECE5698 Project 2
 Optimal-policy-of-Maze-path
 Author: Shuhao Liu
 This code was inspired by the code written and maintained by Tim Miller,
